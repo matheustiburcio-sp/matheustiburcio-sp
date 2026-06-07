@@ -10,7 +10,7 @@ Desenvolvedor Front-end em formação, estudante de Análise e Desenvolvimento d
 
 ---
 
-## 🛠️ Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,7 +27,7 @@ Desenvolvedor Front-end em formação, estudante de Análise e Desenvolvimento d
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas:
 
 <div align="center">
 
@@ -41,7 +41,7 @@ Desenvolvedor Front-end em formação, estudante de Análise e Desenvolvimento d
 
 ---
 
-## 🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque:
 
 ### [EduConnect — Saber Aberto](https://github.com/matheustiburzio-sp)
 Plataforma educacional open-source alinhada ao ODS 4 da ONU. Stack moderna com React, TanStack Start (SSR), TypeScript, Supabase (auth + PostgreSQL) e Cloudflare Pages.
