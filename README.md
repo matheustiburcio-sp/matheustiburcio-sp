@@ -1,4 +1,4 @@
-<h1 align="center">Matheus <span>Tiburzio</span> 💻</h1>
+<h1 align="center">Matheus <span>Tiburzio</span> </h1>
 
 <p align="center">
   <code>const role = "Front-end Developer" | ADS Student</code>
