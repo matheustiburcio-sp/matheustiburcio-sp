@@ -31,12 +31,11 @@ Desenvolvedor Front-end em formação, estudante de Análise e Desenvolvimento d
 
 <div align="center">
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheustiburzio-sp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheustiburcio-sp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustiburzio-sp&layout=compact&theme=tokyonight&hide_border=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustiburcio-sp&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheustiburzio-sp&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheustiburcio-sp&theme=tokyonight&hide_border=true)
 </div>
 
 ---
