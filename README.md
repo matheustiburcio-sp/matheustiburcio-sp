@@ -1,4 +1,4 @@
-h1 align="center">Matheus <span>Tiburzio</span> 💻</h1>
+<h1 align="center">Matheus <span>Tiburzio</span> 💻</h1>
 
 <p align="center">
   <code>const role = "Front-end Developer" | ADS Student</code>
@@ -49,4 +49,38 @@ Atendo clientes em 🇧🇷 PT e 🇪🇺 EU via Fiverr e redes locais.
   <img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### ⬡ Projeto em destaque
+
+> **[EduConnect — Saber Aberto](https://github.com/matheustiburcio-sp)**
+> `React` · `TypeScript` · `Supabase` · `TanStack Start` · `Cloudflare Workers`
+>
+> Plataforma educacional alinhada ao **ODS 4 da ONU** (Educação de Qualidade).
+> Projeto universitário A3 — optei por construir um web app completo em vez do desktop exigido,
+> usando stack moderna com Vite, shadcn/ui e autenticação via Supabase.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matheustiburcio-sp&theme=github_dark" width="100%" alt="GitHub Summary" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=matheustiburcio-sp&theme=github_dark" height="150" alt="Repos por linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matheustiburcio-sp&theme=github_dark" height="150" alt="Linguagem mais commitada" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=matheustiburcio-sp&theme=github-dark-blue&hide_border=true&ring=f0b429&fire=f0b429&currStreakLabel=f0b429&background=0d1117&dates=8b949e" alt="Streak Stats" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <sub>feito com ♥ em são paulo · sempre aprendendo</sub>
 </p>
