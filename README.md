@@ -1,54 +1,82 @@
-# Matheus Tiburzio 💻
+<h1 align="center">Matheus <span>Tiburzio</span> 💻</h1>
 
-`Front-end Developer` `ADS Student`
+<p align="center">
+  <code>const role = "Front-end Developer" | ADS Student</code>
+</p>
 
-Desenvolvedor Front-end em formação, estudante de Análise e Desenvolvimento de Sistemas. Construindo interfaces modernas com React, TypeScript e Tailwind. Apaixonado por design de produto e experiências web de alta qualidade.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Disponível%20para%20freelas-3fb950?style=flat-square&labelColor=161b22&color=3fb950" alt="Status" />
+  <img src="https://img.shields.io/badge/Base-São%20Paulo%2C%20BR-f0b429?style=flat-square&labelColor=161b22" alt="Localização" />
+  <img src="https://img.shields.io/badge/Mercados-PT%20%7C%20EU-58a6ff?style=flat-square&labelColor=161b22" alt="Mercados" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheustiburzio)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://matheustiburzio-sp.github.io/Meu-Portfolio/)
-[![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
+### Sobre mim
 
-## 🛠️ Linguagens e Tecnologias:
+Construindo interfaces **modernas e acessíveis** com React, TypeScript e TailwindCSS.
+Estudante de ADS apaixonado por **design de produto** e experiências web de alto impacto.
+Atendo clientes em 🇧🇷 PT e 🇪🇺 EU via Fiverr e redes locais.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+<br>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-tiburzio" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://matheustiburcio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-f0b429?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfólio"/>
+  </a>
+  <a href="https://www.fiverr.com/matheusdevv" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
+  </a>
+</p>
 
-## 📊 Estatísticas:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">
+### 🛠 Stack
 
-![Matheus's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=matheustiburcio-sp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
 
-![Most Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheustiburcio-sp&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheustiburcio-sp&theme=tokyonight&hide_border=true)
-</div>
+### ⬡ Projeto em destaque
 
----
+> **[EduConnect — Saber Aberto](https://github.com/matheustiburcio-sp)**
+> `React` · `TypeScript` · `Supabase` · `TanStack Start` · `Cloudflare Workers`
+>
+> Plataforma educacional alinhada ao **ODS 4 da ONU** (Educação de Qualidade).
+> Projeto universitário A3 — optei por construir um web app completo em vez do desktop exigido,
+> usando stack moderna com Vite, shadcn/ui e autenticação via Supabase.
 
-## 🚀 Projeto em Destaque:
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### [EduConnect — Saber Aberto](https://github.com/matheustiburzio-sp)
-Plataforma educacional open-source alinhada ao ODS 4 da ONU. Stack moderna com React, TanStack Start (SSR), TypeScript, Supabase (auth + PostgreSQL) e Cloudflare Pages.
+### 📊 GitHub Activity
 
-`React` `TypeScript` `Supabase` `TailwindCSS` `Cloudflare`
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=matheustiburcio-sp&show_icons=true&theme=github_dark&hide_border=true&title_color=f0b429&icon_color=f0b429&text_color=e6edf3&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheustiburcio-sp&layout=compact&theme=github_dark&hide_border=true&title_color=f0b429&text_color=e6edf3&bg_color=0d1117" alt="Top Langs" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=matheustiburcio-sp&theme=github-dark-blue&hide_border=true&ring=f0b429&fire=f0b429&currStreakLabel=f0b429" alt="Streak Stats" />
+</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matheustiburzio-sp&color=6366f1&style=flat-square&label=Visualizações+do+perfil" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<p align="center">
+  <sub>feito com ♥ em são paulo · sempre aprendendo</sub>
+</p>
