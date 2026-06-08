@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0b429&height=120&section=header&text=Matheus%20Tiburzio&fontSize=42&fontColor=0d1117&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=f0b429&height=120&section=header&text=Matheus%20Tiburzio&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=500&lines=Front-end+Developer+%F0%9F%92%BB;ADS+Student+%40+FIAP;React+%7C+TypeScript+%7C+TailwindCSS;Disponível+para+freelas+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=500&lines=Front-end+Developer+%F0%9F%92%BB;ADS+Student+%40+FIAP;React+%7C+TypeScript+%7C+TailwindCSS;Disponivel+para+freelas+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
